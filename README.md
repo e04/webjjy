@@ -1,5 +1,7 @@
 # Web JJY Decoder
 
+<img width="800" alt="スクリーンショット 2025-05-14 23 23 12" src="https://github.com/user-attachments/assets/e29a22ae-8d41-4854-bc55-0fa463d7d22e" />
+
 https://github.com/user-attachments/assets/12662add-8865-4dd7-bca7-392402758950
 
 This is a JJY (Japanese Standard Time Signal) decoder that runs in your web browser. It analyzes the audio signal input from your sound card to decode and display time information.
@@ -23,11 +25,8 @@ You can try the Web JJY Decoder live at: **[https://e04.github.io/webjjy/](https
 ## Equipments
 
 ![IMG_2214](https://github.com/user-attachments/assets/8cc89aa6-4b04-4bec-8e76-b705bca21f15)
+
 ![IMG_2213](https://github.com/user-attachments/assets/d3d33805-c677-4d3d-a51a-a6ee7ba21f9c)
-
-## Screenshot
-
-<img width="512" alt="スクリーンショット 2025-05-14 23 23 12" src="https://github.com/user-attachments/assets/e29a22ae-8d41-4854-bc55-0fa463d7d22e" />
 
 ## Key Features
 
