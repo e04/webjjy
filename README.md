@@ -1,10 +1,18 @@
 # Web JJY Decoder
 
-This is a JJY (Japanese Standard Time Signal) decoder that runs in your web browser. It analyzes the audio signal input from your microphone to decode and display time information.
+This is a JJY (Japanese Standard Time Signal) decoder that runs in your web browser. It analyzes the audio signal input from your sound card to decode and display time information.
+
+ブラウザ上で動作するJJY（日本の標準時報）デコーダーです。オーディオインターフェイスに入力された音声信号を解析し、時刻情報をデコードして表示します。
 
 ## Overview
 
 This application uses the Web Audio API to capture audio from a microphone and employs FFT (Fast Fourier Transform) to visualize and decode the 40kHz JJY standard time signal. The decoded time is displayed on the screen in real-time.
+
+The 40kHz signal is also down-converted to an audible 800Hz, allowing you to hear it.
+
+このアプリケーションは、Web Audio APIを使用してマイクから音声を取得し、FFT（高速フーリエ変換）を用いて40kHzのJJY標準電波の信号を可視化およびデコードします。デコードされた時刻はリアルタイムで画面に表示されます。
+
+40kHzの信号を800Hzへダウンコンバートして、耳で聞くこともできます。
 
 ## Live Demo
 
