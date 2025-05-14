@@ -8,7 +8,7 @@ export function calcSpectrum(pcm, fft) {
     // 対数スケールで0-255に正規化
     const db = 20 * Math.log10(mag + 1e-8);
     // ダイナミックレンジを狭めて、より多くの色が表示されるように調整
-    const norm = Math.max(0, Math.min(255, Math.round((db + 20) * 3)));
+    const norm = Math.max(0, Math.min(255, Math.round((db + 30) * 3)));
     spectrum[i] = norm;
   }
   return spectrum;

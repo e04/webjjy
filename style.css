@@ -1,0 +1,97 @@
+body {
+  background-color: #222222;
+  font-family: "DotGothic16", sans-serif;
+  color: white;
+}
+
+#startOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.main-content {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background-color: #424242;
+}
+
+.waterfall-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 1px;
+  overflow: hidden;
+  position: relative;
+}
+
+#waterfall,
+#levelMeter,
+#rmsCanvas {
+  background-color: black;
+}
+
+.jjy-display {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  font-size: 32px;
+}
+
+.decoded-result {
+  font-size: 16px;
+  height: 24px;
+  width: calc(100% - 40px);
+  background-color: black;
+  overflow: hidden;
+  padding-left: 40px;
+  line-height: 24px;
+}
+
+.time-info {
+  display: flex;
+  gap: 32px;
+  padding: 0 16px;
+  background-color: black;
+  line-height: 1;
+  height: 120px;
+}
+
+.date-display {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.year-display {
+  font-size: 64px;
+}
+
+.mmdd-display {
+  font-size: 32px;
+}
+
+.day-display {
+  font-size: 32px;
+}
+
+.time-display {
+  font-size: 128px;
+  line-height: 108px;
+}
