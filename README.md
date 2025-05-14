@@ -20,28 +20,14 @@ The 40kHz signal is also down-converted to an audible 800Hz, allowing you to hea
 
 You can try the Web JJY Decoder live at: **[https://e04.github.io/webjjy/](https://e04.github.io/webjjy/)**
 
-## Screenshot (Placeholder)
+## Equipments
 
-(Please insert an actual screenshot here if the live demo doesn't suffice)
+![IMG_2214](https://github.com/user-attachments/assets/8cc89aa6-4b04-4bec-8e76-b705bca21f15)
+![IMG_2213](https://github.com/user-attachments/assets/d3d33805-c677-4d3d-a51a-a6ee7ba21f9c)
 
-```
-+-----------------------------------------------------+
-| JJY 40.000                                          |
-| +---------------------------------+ +-------------+ |
-| |                                 | |             | |
-| |      Waterfall Display          | | Level Meter | |
-| |                                 | |             | |
-| +---------------------------------+ +-------------+ |
-| +-------------------------------------------------+ |
-| |                  RMS Graph Display                | |
-| +-------------------------------------------------+ |
-| | M 0 1 0 1 M 0 1 ... (Decoded sequence)          | |
-| +-------------------------------------------------+ |
-| | ---- (Year)                                     | |
-| | --/-- (Month/Day)  (---) (Day of Week)          | |
-| |                 --:-- (Hour:Minute)             | |
-| +-----------------------------------------------------+
-```
+## Screenshot
+
+<img width="512" alt="スクリーンショット 2025-05-14 23 23 12" src="https://github.com/user-attachments/assets/e29a22ae-8d41-4854-bc55-0fa463d7d22e" />
 
 ## Key Features
 
