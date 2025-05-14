@@ -1,5 +1,7 @@
 # Web JJY Decoder
 
+https://github.com/user-attachments/assets/12662add-8865-4dd7-bca7-392402758950
+
 This is a JJY (Japanese Standard Time Signal) decoder that runs in your web browser. It analyzes the audio signal input from your sound card to decode and display time information.
 
 ブラウザ上で動作するJJY（日本の標準時報）デコーダーです。オーディオインターフェイスに入力された音声信号を解析し、時刻情報をデコードして表示します。
