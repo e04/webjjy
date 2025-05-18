@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/12662add-8865-4dd7-bca7-392402758950
 
-This is a JJY (Japanese Standard Time Signal) receive/decoder that runs in your web browser. It analyzes the audio signal input from your sound card to decode and display time information.
+This is a JJY (Japanese Standard Time Signal) receiver that runs in your web browser. It analyzes the audio signal input from your sound card to decode and display time information.
 
 ブラウザ上で動作するJJY（日本の標準時報）レシーバー・デコーダーです。オーディオインターフェイスに入力されたJJYの信号を解析し、時刻情報をデコードして表示します。
 
